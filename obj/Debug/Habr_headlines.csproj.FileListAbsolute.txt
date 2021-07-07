@@ -1,0 +1,7 @@
+D:\Proj\Habr_headlines\obj\Debug\Habr_headlines.csprojAssemblyReference.cache
+D:\Proj\Habr_headlines\obj\Debug\Habr_headlines.csproj.CoreCompileInputs.cache
+D:\Proj\Habr_headlines\bin\Debug\Habr_headlines.exe.config
+D:\Proj\Habr_headlines\bin\Debug\Habr_headlines.exe
+D:\Proj\Habr_headlines\bin\Debug\Habr_headlines.pdb
+D:\Proj\Habr_headlines\obj\Debug\Habr_headlines.exe
+D:\Proj\Habr_headlines\obj\Debug\Habr_headlines.pdb
